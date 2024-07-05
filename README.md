@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my pet-projects**
+- 🔭 I’m currently working on: **my pet-projects**
 
-- 🌱 I’m currently learning **Frontend(React)**
+- 🌱 I’m currently learning: **Frontend(React)**
 
-- 💬 Ask me about **Django, DRF**
+- 💬 Ask me about: **Django, DRF**
 
-- 📫 How to reach me **d.nikulin275@gmail.com**
+- 📫 How to reach me: **d.nikulin275@gmail.com**
 
 
 <p align="left">
